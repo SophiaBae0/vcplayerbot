@@ -3,7 +3,7 @@ autopep8
 pyaes
 pyasn1
 pycodestyle
-pyrogram==1.4.16
+pyrogram
 PySocks
 rsa
 TgCrypto
@@ -26,7 +26,7 @@ Pillow
 aiofiles
 aiohttp
 asyncio
-pytgcalls==3.0.0.dev21
+pytgcalls
 git+https://github.com/kshubham506/pytube
 cachetools
 async-cache
